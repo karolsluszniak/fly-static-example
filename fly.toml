@@ -1,3 +1,4 @@
+# Change to the name used with `fly apps create`
 app = "myapp"
 
 # This may be removed in order to fallback to Nginx

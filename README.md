@@ -29,7 +29,8 @@ Check that it's working along with caching:
 curl -v http://mystaticapp.fly.dev
 ```
 
-```
+```sh
+# ...
 < fly-cache-status: HIT
 # ...
 <html>
